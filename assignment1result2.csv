@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1618567842447,792,add,200,OK,Thread Group 1-1,text,true,,585,433,1,1,http://www.dneonline.com/calculator.asmx,785,0,417
+1618567844301,350,divide,200,OK,Thread Group 1-1,text,true,,597,442,1,1,http://www.dneonline.com/calculator.asmx,350,0,0
+1618567844655,332,multiply,200,OK,Thread Group 1-1,text,true,,606,449,1,1,http://www.dneonline.com/calculator.asmx,332,0,0
+1618567844992,369,subtract,200,OK,Thread Group 1-1,text,true,,605,449,1,1,http://www.dneonline.com/calculator.asmx,369,0,0

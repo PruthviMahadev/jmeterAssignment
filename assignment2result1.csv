@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1618571978395,3966,post,200,OK,Thread Group 1-4,text,true,,387,372,5,5,https://petstore.swagger.io/v2/user,3966,0,3644
+1618571978243,4117,post,200,OK,Thread Group 1-1,text,true,,387,378,5,5,https://petstore.swagger.io/v2/user,4117,0,3780
+1618571978636,3697,post,200,OK,Thread Group 1-5,text,true,,387,378,5,5,https://petstore.swagger.io/v2/user,3696,0,3385
+1618571978250,4125,post,200,OK,Thread Group 1-3,text,true,,387,367,5,5,https://petstore.swagger.io/v2/user,4124,0,3794
+1618571978250,4079,post,200,OK,Thread Group 1-2,text,true,,387,370,5,5,https://petstore.swagger.io/v2/user,4076,0,3746
+1618571982487,303,get,200,OK,Thread Group 1-1,text,true,,487,184,5,5,https://petstore.swagger.io/v2/user/subha?username=priya,303,0,0
+1618571982483,318,get,200,OK,Thread Group 1-4,text,true,,487,184,4,4,https://petstore.swagger.io/v2/user/subha?username=priya,318,0,0
+1618571982488,328,get,200,OK,Thread Group 1-5,text,true,,487,184,3,3,https://petstore.swagger.io/v2/user/subha?username=priya,327,0,0
+1618571982494,333,get,200,OK,Thread Group 1-2,text,true,,487,184,2,2,https://petstore.swagger.io/v2/user/subha?username=priya,332,0,0
+1618571982490,360,get,200,OK,Thread Group 1-3,text,true,,487,184,1,1,https://petstore.swagger.io/v2/user/subha?username=priya,353,0,0
